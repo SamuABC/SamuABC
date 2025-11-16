@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a computer science student from Germany that is currently working on his bachelor thesis.
+I'm a computer science student from Germany who is currently working on his bachelor thesis.
 
 # Tech-Stack
 During my Bachelor’s, I worked with several programming languages:
