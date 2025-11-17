@@ -3,8 +3,8 @@ I'm a computer science student from Germany who is currently working on his bach
 
 # Tech-Stack
 During my Bachelor’s, I worked with several programming languages:
-- Python (In my ML class and in two projects that I intensively worked on. See below)
-- Javascript (During one of the projects I worked on. See below)
+- Python (In both projects listed below and in my ML class)
+- Javascript (In the Robot Mission Explorer project)
 - C++ (During an intensive C++ block course)
 - Java (During a 9 CP lecture on OOP)
 - Racket (During a 9 CP lecture on functional programming)
