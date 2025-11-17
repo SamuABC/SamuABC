@@ -18,5 +18,7 @@ Developed by me and 5 other students during a team project at university. You ca
 ## AI-Tutor Website
 A Website developed by me and a colleague during my work as a student assistant at the Autonomous Learning Group of the University Tübingen.  
 The AI tutor is a tool for university lectures where the professor can add exercises for the students. In every exercise, the student has to explain a specific topic from the lecture to an AI. The conversation then automatically gets checked for correctness and if everything was explained correctly, the student can submit the chat. Tutors can view the submitted chats.  
-The AI Tutor is already used by multiple computer science professors for their lectures.  
-The repository is not public yet.
+Multiple computer science professors at the University of Tübingen use the AI Tutor for their lectures.  
+The repository is not public yet but this is a screenshot of the homepage:
+<img width="1064" height="798" alt="grafik" src="https://github.com/user-attachments/assets/d08987bb-21fa-4821-bfbb-74abfeb2a8d2" />
+
