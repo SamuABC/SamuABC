@@ -13,12 +13,11 @@ During my Bachelor’s, I worked with several programming languages:
 # Projects
 ## Explorer Website for Robot Missions
 A Website where you can store, sort, tag and analyze Robot Data (mcap files).  
-Developed by me and 5 other students during a team project at university. You can find the repository [here](https://github.com/brendel-group/mission_db)
+Developed by me and 5 other students during a team project at university. You can find the repository [here](https://github.com/brendel-group/mission_db).
 
 ## AI-Tutor Website
 A Website developed by me and a colleague during my work as a student assistant at the Autonomous Learning Group of the University Tübingen.  
-The AI tutor is a tool for university lectures where the professor can add exercises for the students. In every exercise, the student has to explain a specific topic from the lecture to an AI. The conversation then automatically gets checked for correctness and if everything was explained correctly, the student can submit the chat. Tutors can view the submitted chats.  
-Multiple computer science professors at the University of Tübingen use the AI Tutor for their lectures.  
-The repository is not public yet but this is a screenshot of the homepage:
-<img width="1064" height="798" alt="grafik" src="https://github.com/user-attachments/assets/d08987bb-21fa-4821-bfbb-74abfeb2a8d2" />
+The AI Tutor is a tool for university lectures where the professor can add exercises for the students. In every exercise, the student has to explain a specific topic from the lecture to an AI. The conversation then automatically gets checked for correctness and if everything was explained correctly, the student can submit the chat. Tutors can view the submitted chats.  
+Multiple computer science professors at the University of Tübingen use the AI Tutor for their lectures. Students that used the AI Tutor rated it to be useful for their learning progress and their rating of the user interface got 4.5/5 stars.
+The repository is open source and can be found [here](https://github.com/martius-lab/ai-tutor).
 
